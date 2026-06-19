@@ -6,11 +6,11 @@ A simple Solidity smart contract that stores an integer value and allows users t
 
 ## Features
 
-* Store an integer value on the blockchain
-* Increment the value by 1
-* Decrement the value by 1
-* Read the current value
-* Compiled, deployed, and tested using Remix IDE
+- Store an integer value on the blockchain
+- Increment the value by 1
+- Decrement the value by 1
+- Read the current value
+- Compiled, deployed, and tested using Remix IDE
 
 ## Smart Contract Code
 
@@ -37,21 +37,19 @@ contract SimpleStorage {
 
 ## Testing
 
-| Action          | Output |
-| --------------- | ------ |
-| Deploy Contract | 0      |
-| increment()     | 1      |
-| increment()     | 2      |
-| decrement()     | 1      |
+| Action | Output |
+|--------|--------|
+| Deploy Contract | 0 |
+| increment() | 1 |
+| increment() | 2 |
+| decrement() | 1 |
 
 ## Technologies Used
 
-* Solidity
-* Remix IDE
-* Ethereum Virtual Machine (EVM)
+- Solidity
+- Remix IDE
+- Ethereum Virtual Machine (EVM)
 
 ## Author
 
-B.Mano Varaha Vinay
-
-
+B. Mano Varaha Vinay
